@@ -14,6 +14,8 @@ The project emphasizes:
 
 The game uses a top-down 2D view, where each element on the map is displayed as a sprite in the game window. The player's position updates in response to keyboard inputs, and the program keeps track of the total number of moves, displayed in the terminal (or on-screen for bonus features).
 
+All the game assets, including textures and sprites, were designed and created by me, giving the game a unique and personal aesthetic.
+
 You can customize the game by creating your own maps, characters, and themes, making it a flexible and engaging way to explore basic game mechanics.
 ## Installation
 
