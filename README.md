@@ -1,4 +1,4 @@
-# So Long
+# My 42 So Long
 ## Description
 
 So Long is a small 2D game created as part of the 42 School curriculum. This project serves as an introduction to graphical programming and game development in C, using the MiniLibX, a simple graphical library.
